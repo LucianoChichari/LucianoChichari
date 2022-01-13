@@ -23,7 +23,7 @@
 ### Deployed Side Projects:
 
 <!-- YOUTUBE:START -->
-- [Landing Side Project](https://lucianochichari-landingsideproject.netlify.app)
+- [Landing Side Project (in progress)](https://lucianochichari-landingsideproject.netlify.app)
 <!-- YOUTUBE:END -->
 
 <br />
