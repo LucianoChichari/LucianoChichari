@@ -1,15 +1,15 @@
-### Hola! bienvenidos a mi repositorio! 👋 
+### Hello! welcome to my repository! 👋 
 
-## Soy Front End Developer & UI Desginer!!
+## Front End Developer & UI Designer!!
 
-- 🔭 Actualmente trabajo como Front End Developer & UI Designer para Kiuvi Services!
-- 🌱 Mis fuertes son Reactjs, Javascript, Html, Css, Scss, Materialize, Bootstrap y Recoil
-- 👯 Actualmente estoy aprendiendo React Native y Flutter para desarrollo mobile 
-- 🥅 Tambien terminando la carrera de Fullstack en [coderhouse]
-- ⚡ Nivel de Ingles: c2+
-- 📺 Hobbies: Producir musica, escribir y juegos!
+- 🔭 I currently work as a Front End Developer & UI Designer for Kiuvi Services!
+- 🌱 My strengths are React Js, Javascript, Html, Css, Scss, Materialize, Bootstrap and Recoil
+- 👯 I am currently learning React Native and Flutter for mobile development
+- 🥅 Also finishing Fullstack's career in [coderhouse]
+- ⚡ English level: c2+
+- 📺 Hobbies: Producing music, writing and gaming!
 
-### Redes Sociales:
+### Social Networks:
 
 <!-- YOUTUBE:START -->
 - [LinkedIn](https://www.linkedin.com/in/luciano-chichari/)
@@ -28,7 +28,7 @@
 
 <br />
 
-### Lenguajes y Herramientas:
+### Languages ​​and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
