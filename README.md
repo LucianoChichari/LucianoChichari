@@ -2,9 +2,9 @@
 
 ## Front End Developer & UI Designer!!
 
-- 🔭 I currently work as a Front End Developer & UI Designer for Kiuvi Services!
+- 🔭 I currently work as a Salesforce Developer at Globant!
 - 🌱 My strengths are React Js, Javascript, Html, Css, Scss, Materialize, Bootstrap and Recoil
-- 👯 I am currently learning React Native and Flutter for mobile development
+- 👯 I am currently learning Apex, SOQL, and Aura.
 - 🥅 Also finishing Fullstack's career in [coderhouse]
 - ⚡ English level: c2+
 - 📺 Hobbies: Producing music, writing and gaming!
