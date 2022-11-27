@@ -3,9 +3,9 @@
 ## Front End Developer & UI Designer!!
 
 - 🔭 I currently work as a Salesforce Developer at Globant!
-- 🌱 My strengths are React Js, Javascript, Html, Css, Scss, Materialize, Bootstrap and Recoil
+- 🌱 My strengths are React Js, Javascript, Html, Css, Scss, Materialize, Bootstrap | Apex, SOQL, LWC
 - 👯 I am currently learning Apex, SOQL, and Aura.
-- 🥅 Also finishing Fullstack's career in [coderhouse]
+- 🥅 Also finished Fullstack's career in [coderhouse]
 - ⚡ English level: c2+
 - 📺 Hobbies: Producing music, writing and gaming!
 
